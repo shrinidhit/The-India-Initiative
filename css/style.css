@@ -135,7 +135,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('../img/slide1.jpg') 50% 0 no-repeat fixed;
+	background:url('../img/bridge.jpg') 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
 	margin: 0;
@@ -144,6 +144,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide2{
+	background:url('../img/delhi.jpg') 50% 0 no-repeat fixed;
 	background-color: #fff;
 	color: #333333;
 	height: 300px;
@@ -153,7 +154,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide3{
-	background: url(../img/slide3.jpg) 50% 0 no-repeat fixed;
+	background: url(../img/children.jpg) 50% 0 no-repeat fixed;
 	color: #fff;
 	height: 600px;
 	padding: 170px 0 0 0;	
@@ -161,6 +162,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide4{
+	background: url(../img/bwchildren.jpg) 50% 0 no-repeat fixed;
 	background-color: #fff;
 	color: #333333;
 	height: 300px;
@@ -168,7 +170,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide5{
-	background: url(../img/slide5.jpg) 50% 0 no-repeat fixed;
+	background: url(../img/skyline.jpg) 50% 0 no-repeat fixed;
 	height: 200px;
 	margin: 0 auto;
 	padding: 250px 0;
