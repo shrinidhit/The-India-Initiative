@@ -1,0 +1,24 @@
+/*	CONTENT BLOCK 1-1
+/*----------------------------------------------------*/
+
+.content-1-1b {
+	background: url("../images/bwchildren.jpg") center top no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.content-1-1b .container {
+	margin-top: 220px;
+}
+
+.content-1-1b h1 {
+	text-transform: uppercase;
+	font-weight: 300;
+	color: #FFF;
+}
+
+.content-1-1b p{
+	color:#9FF;
+}
