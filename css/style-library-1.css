@@ -148,7 +148,7 @@ p {
 	font-size: 14px;
 	line-height: 1.6;
 	margin: 15px 0;
-	color: #515157;
+	color: #F90;
 }
 
 .lead {
@@ -432,16 +432,16 @@ p .btn {
 
 .btn-outline.outline-custom,
 .icon.outline-custom {
-	color: #09F;
+	color: #F60;
 	background: none;
-	border: 2px solid #09F;
+	border: 2px solid #F60;
 }
 
 .btn-outline.outline-custom:hover,
 .icon.outline-custom:hover {
 	color: #FFF;
-	background: #09f;
-	border: 2px solid #09f;
+	background: #F60;
+	border: 2px solid #F60;
 }
 
 button:hover {

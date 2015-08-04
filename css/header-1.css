@@ -8,7 +8,7 @@
 }
 
 #header-1 .main-nav {
-	background-color: rgba(0,0,0,0.95);
+	background-color: rgba(255,255,255,0.95);
     border: 0;
     height: 80px;
 }
@@ -17,7 +17,7 @@
 	margin-right: 0;
 	margin-top: 0;
 	background: none;
-	position: absolute;
+	position: fixed;
 	right: 20px;
 	top: 20px;
 }
@@ -32,7 +32,7 @@
 }
 
 #header-1 .main-nav .navbar-toggle:hover .icon-bar {
-	background-color: #fff;
+	background-color: #333;
 }
 
 #header-1 .main-nav .nav {
@@ -44,16 +44,16 @@
 	font-weight: 700;
 	text-transform: uppercase;
 	font-size: 15px;
-	color: #FFF;
+	color: #000;
 }
 
 #header-1 .main-nav .nav .nav-item.active a {
-	color: #666;
+	color: #000;
 	back ground: none;
 }
 
 #header-1 .main-nav .nav .nav-item a:hover {
-	color: #666;
+	color: #F60;
 	background: none;
 }
 
@@ -120,7 +120,7 @@
 }
 
 .headroom {
-	position: fixed;
+	position: relative;
 	top: 0;
 	left: 0;
 	right: 0;
