@@ -3,18 +3,38 @@
 /*Shrinidhi Thirumalai, Zubin Mehta
 The India Initiative 2015*/
 
+
+.slide {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+	background-image: url(../img/bridge.jpg);
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+@media(min-width:768px) {
+    .slide {
+        min-height: 100%;
+    }
+
 .slide1 {
-background: "img/delhi.jpg"
+background-image: url(../img/delhi.jpg);
 }
 
 .slide2 {
-background: "img/children.jpg"
+background-image: url(../img/children.jpg);
 }
 
 .slide3 {
-background: "img/bwchildren.jpg"
+background-image: url(../img/bwchildren.jpg)
 }
 
 .slide4 {
-background: "img/skyline.jpg"
+background-image: url(../img/skyline.jpg)
 }
